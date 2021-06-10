@@ -6,9 +6,11 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: FlyWise - Volare con saggezza
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      FlyWise è un sistema di navigazione completo dedicato ai piloti, che vi
+      aiuta in ogni aspetto della vostra navigazione. Un sistema pensato per
+      rispondere velocemente alle vostre domande in volo, ancora prima che vi
+      vengano in mente.
     actions:
       - label: Learn More
         url: /features
