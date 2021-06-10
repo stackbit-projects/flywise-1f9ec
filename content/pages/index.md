@@ -12,7 +12,7 @@ sections:
       rispondere velocemente alle vostre domande in volo, ancora prima che vi
       vengano in mente.
     actions:
-      - label: Learn More
+      - label: Dettagli
         url: /features
         style: primary
   - section_id: features
